@@ -1,2 +1,26 @@
-# Vue_express_blog_demo
-A simple project for the vue+express+elementui, implement some function for the blog admin pages.
+# element-admin
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```

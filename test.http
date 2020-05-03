@@ -1,0 +1,8 @@
+
+POST http://localhost:3001/api/articles
+Content-Type: application/json
+
+
+{
+    "123": "123"
+}
